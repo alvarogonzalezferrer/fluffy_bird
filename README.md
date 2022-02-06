@@ -6,6 +6,8 @@ My first Unity game!
 
 Check releases for pre-compiled Windows binary!
 
+![Screenshoot](screenshoot_gameplay.jpg)
+
 ## Notes
 
 There is a cheat code, God mode with the G key.
@@ -20,4 +22,3 @@ There is a "star" prize that will give you God mode for a few seconds.
 
 Copyright (c) 2022 - Alvaro "Krono" Gonzalez
 
-![Screenshoot](screenshoot_gameplay.jpg)
