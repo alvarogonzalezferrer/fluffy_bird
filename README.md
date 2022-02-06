@@ -4,7 +4,9 @@ A Flappy Bird clone. In Unity.
 
 My first Unity game! 
 
-Check releases for pre-compiled Windows binary!
+**Check releases** for pre-compiled Windows binary!
+
+The game has sound! And music!
 
 ![Screenshoot](screenshoot_gameplay.jpg)
 
