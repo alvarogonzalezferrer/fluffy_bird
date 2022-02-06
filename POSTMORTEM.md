@@ -40,12 +40,15 @@ Me gustaría en el futuro agregar algunas cosas, como tabla de puntajes, y estre
 
 En cuanto a la parte tecnológica, quizá reescribir en C++ el juego, podría hacerlo correr incluso en hardware de muchos menos requerimientos que Unity; a mi me gusta hacer el código lo mas eficiente posible, creo que un juego tan sencillo se podría hacer mucho mas pequeño usando C++ y Allegro o SDL. Godot también es buena opción y me gusta la licencia libre que tiene.
 
-Puedo hacer juegos en muchas tecnologías diferentes, y elegir la tecnología adecuada de acuerdo al juego, target de hardware, publico, etc es muy importante. Mi especialidad en Gameloft era portar juegos a celulares de gama baja, donde el hardware estaba muy limitado (usando Java).
+La gran ventaja que le veo a Unity (o Godot) es no tener que inicializar el hardware, o manipular la RAM de manera directa como C++, eso me hizo acelerar enormemente el desarrollo, y evita errores. Me gusto mucho, yo soy "old school", vengo haciendo videojuegos desde la época del C64 con BASIC y ASM, pero me gusta conocer y adaptarme a nuevas tecnologías.
+
+Puedo hacer juegos en muchas tecnologías diferentes, y elegir la tecnología adecuada de acuerdo al juego, target de hardware, publico, etc es muy importante. Mi especialidad en Gameloft era portar juegos a celulares de gama baja, donde el hardware estaba muy limitado (usando Java ME).
 
 También puedo codificar gráficos en lenguaje de bajo nivel como Assembler o C, para MS-DOS, Linux, etc
 
-
 ## Los libros que consulte 
+
+Como es mi primer contacto con Unity, tuve que recurrir a leer varios libros para guiarme, saltando a las partes que me interesaban para este desarrollo en particular; adaptarme a nuevas tecnologias es mi fuerte.
 
 Franz Lanzinger - 2D Game Development with Unity - CRC Press (2021)
 
