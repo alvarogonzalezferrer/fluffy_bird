@@ -4,7 +4,7 @@ A Flappy Bird clone. In Unity.
 
 My first Unity game! 
 
-**Check releases** for pre-compiled Windows binary!
+[**Check releases** for pre-compiled Windows binary!](https://github.com/alvarogonzalezferrer/fluffy_bird/releases)
 
 The game has sound! And music!
 
