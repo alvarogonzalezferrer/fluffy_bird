@@ -4,6 +4,8 @@ Bueno, es mi primer juego en Unity, yo normalmente programo en C++ o Java; no me
 
 Me baje Unity, y un libro bastante interesante, y con ello me puse a hacerlo. 
 
+Recomiendo jugar la version compilada a pantalla completa, para disfrutar la experiencia de juego correcta, se puede bajar en Releases, o compilar para Windows desde Unity.
+
 ## Desarrollo
 
 Primero leí bastante un libro introductorio a Unity 2D, ya que era una tecnología nueva para mi, mi especialidad es C++ y Java diseñando motores y portando y optimizando código existente, no tanto usar motores "enlatados", aunque tuve contacto con Godot y engines "in-house" en Gameloft. 
@@ -16,13 +18,15 @@ Las tuberías cuentan con una zona que se considera "vuelo exitoso" que cuenta p
 
 La jugabilidad es lo mas importante, así que estuve bastante tiempo enfocado en ajustar los parámetros de velocidades y demás reacciones, para lograr que el juego sea difícil sin ser imposible. 
 
-Por ultimo agregue un generador de estrellas. La estrella en estilo Mario, viene volando y hay que atraparla, y nos da inmunidad total por unos segundos, indicado al jugador con un cambio de música y color (tal cual sucede en la consola Nintendo).
+Acto seguido, agregue un generador de estrellas. La estrella en estilo Mario, viene volando y hay que atraparla, y nos da inmunidad total por unos segundos, indicado al jugador con un cambio de música y color (tal cual sucede en la consola Nintendo).
 
 Además, para terminar de pulir la experiencia del jugador, decidí agregar efectos de sonido, y crear una pantalla titulo y algunos mensajes informativos. 
 
 Quedo un juego 100% completo, además probé compilarlo para plataforma Windows sin ningún tipo de problemas, e hice el lanzamiento del binario win64, que se puede bajar de "Releases". Podría hacer un instalador también mediante NSIS o similar, para un usuario final.
 
-Por ultimo, agregue un truco, un cheat "secreto", creo que todo buen juego debe tener secretos, tocando la letra "G" entra en "modo Dios" invencible.
+Luego coloque un botón para encender o apagar el sonido en la esquina inferior izquierda, y un botón para salir en la esquina superior derecha, esto pensando en la versión "stand-alone" ya compilada de escritorio. Es importante permitirle al jugador configurar a su gusto el juego, apagando sonidos o saliendo rápido si así lo desea.
+
+Para finalizar, agregue un truco, un cheat "secreto", creo que todo buen juego debe tener secretos, tocando la letra "G" entra en "modo Dios" invencible.
 
 ## Código 
 
