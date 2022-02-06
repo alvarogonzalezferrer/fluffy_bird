@@ -12,6 +12,10 @@ There is a cheat code, God mode with the G key.
 
 There is a "star" prize that will give you God mode for a few seconds.
 
+## Postmortem
+
+[Read my postmortem here (Spanish!)](POSTMORTEM.md)
+
 ### Enjoy!
 
 Copyright (c) 2022 - Alvaro "Krono" Gonzalez
